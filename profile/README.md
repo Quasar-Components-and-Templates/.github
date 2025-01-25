@@ -1,4 +1,4 @@
-#👋 Welcome to QuasarUI: Quasar components and templates
+# 👋 Welcome to QuasarUI: Quasar components and templates
 
 ## 🌟 About Us
 QuasarUI: Quasar components and templates is dedicated to ease the development process for you. We have 500+ components and premium templates. All components and templates are responsive, both light / dark theme
