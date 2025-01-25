@@ -7,7 +7,7 @@ QuasarUI: Quasar components and templates is dedicated to ease the development p
 
 ## 🚀 Key Projects
 - [Application UI Components](https://www.quasarui.com/components/application-ui) 
-- [Marketing Components](https://www.quasarui.com/components/marketing): Short description.
+- [Marketing Components](https://www.quasarui.com/components/marketing)
 
 
 ## 📫 Contact Us
